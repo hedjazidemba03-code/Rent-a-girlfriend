@@ -1,2 +1,3 @@
-# Rent-a-girlfriend
-Aide pour les nuls en amour 
+# livraison-dakar-app
+
+code et documents pour l'App de livraison dakar 
